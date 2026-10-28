@@ -1,0 +1,2 @@
+pr_number,title,url,author_login,author_id,author_url,author_type,merged_by_login,merged_by_id,merged_by_url,additions,deletions,created_at,merged_at,time_to_merge
+1,feature1,https://github.com/htnguyen19/interview_test/pull/1,htnguyen19,85631508,https://github.com/htnguyen19,User,htnguyen19,85631508,https://github.com/htnguyen19,0,0,2026-10-27T16:34:59Z,2026-10-27T16:36:13Z,0:01:14
